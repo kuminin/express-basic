@@ -1,0 +1,23 @@
+{
+  "name": "express-basic",
+  "version": "1.0.0",
+  "description": "TeamTreeHouse Course on Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuminin/express-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuminin/express-basic/issues"
+  },
+  "homepage": "https://github.com/kuminin/express-basic#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta4"
+  }
+}
